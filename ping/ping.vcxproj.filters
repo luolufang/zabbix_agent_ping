@@ -33,9 +33,4 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <None Include="C:\Users\luolvfan\Desktop\msvcp120.dll">
-      <Filter>头文件</Filter>
-    </None>
-  </ItemGroup>
 </Project>
